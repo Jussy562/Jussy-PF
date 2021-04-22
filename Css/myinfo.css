@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+}
+
+.section {
+    background-color: rgb(212, 209, 209);
+    float: right;
+    display: none;
+    padding-top: 20px;
+   
+   
+    
+}
+
